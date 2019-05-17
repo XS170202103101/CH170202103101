@@ -1,4 +1,4 @@
-package demoproj;
+package demoproj01;
 
 public class student {
 		   public String name;
